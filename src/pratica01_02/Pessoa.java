@@ -5,10 +5,10 @@
 package pratica01_02;
 
 /**
- *    import java.time.LocalDate;
+
  * @author 1593655
  */
-public class Pessoa {
+   import java.time.LocalDate;
 
 
 public class Pessoa {
@@ -77,4 +77,4 @@ public class Pessoa {
         return altura;
     }
 }
-}
+
